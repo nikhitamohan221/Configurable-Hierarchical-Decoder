@@ -1,4 +1,6 @@
 // ============================================================
+// AUTHOR : Ganta V.S Nikhita
+//configurable_decoder
 // Module: decoder_2to4
 // Description: 2-to-4 line decoder with active-high enable
 // ============================================================
