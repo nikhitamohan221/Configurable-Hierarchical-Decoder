@@ -1,5 +1,6 @@
 // ============================================================
 // Module: decoder_2to4
+// Author: Ganta V.S Nikhita
 // Description: 2-to-4 line decoder with active-high enable
 // ============================================================
 module decoder_2to4 (
