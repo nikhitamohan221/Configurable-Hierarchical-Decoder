@@ -13,6 +13,7 @@ This project implements a configurable hierarchical decoder using Verilog HDL. T
 - Enable signal to control output activation
 - Modular and hierarchical design
 - Includes self-checking testbench with automated PASS/FAIL validation
+- 
 
 ## Design Description
 The decoder is built using smaller decoder modules:
@@ -59,6 +60,10 @@ The output is selected based on the `mode_sel` input:
 ## Results
 - Correct decoding observed for all configurations
 - Successful verification through testbench
+  ## Simulation Results
+-Waveform
+- Schematic Design
+
 
 ## Conclusion
 This project demonstrates hierarchical design and modular implementation in digital systems using Verilog.
