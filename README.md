@@ -67,3 +67,9 @@ The output is selected based on the `mode_sel` input:
 
 ## Conclusion
 This project demonstrates hierarchical design and modular implementation in digital systems using Verilog.
+
+## Contributors
+- Ganta V.S Nikhita  
+- Gajji Sahasra  
+- Mudavath Harika (Harika22-code)
+Added contributors section
