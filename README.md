@@ -72,4 +72,4 @@ This project demonstrates hierarchical design and modular implementation in digi
 - Ganta V.S Nikhita  
 - Gajji Sahasra  
 - Mudavath Harika (Harika22-code)
-Added contributors section
+  
